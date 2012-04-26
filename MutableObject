@@ -1,0 +1,23 @@
+
+class Animation {
+    bool isAnimating;
+    bool isDrawing;
+    AnimationList animList;
+
+    void startAnimation()
+    {
+      
+    }
+    void animate()
+    {
+
+    }
+    void stopAnimation()
+    {
+
+    }
+    void draw()
+    {
+
+    }
+}
